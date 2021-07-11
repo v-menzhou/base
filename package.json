@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prepare": "husky install",
     "husky:pre-commit": "lint-staged"
   },
   "keywords": [],

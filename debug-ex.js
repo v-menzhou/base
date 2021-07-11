@@ -5,4 +5,4 @@ a('Here is some info !')
 b('Here is some  other info !')
 
 
-DEBUG=module:* node debug-ex
+// DEBUG=module:* node debug-ex
